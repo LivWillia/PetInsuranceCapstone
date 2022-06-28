@@ -30,4 +30,4 @@ created the CRUD but used @RestController instead of @Controller and had to comp
 
 Issues with security - wanted to have the welcome, about, contact page load before having to force login
 
-finally project was complete after man revisions and sleepless nights
+finally project was complete after many revisions and sleepless nights
